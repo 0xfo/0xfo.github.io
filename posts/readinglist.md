@@ -7,9 +7,9 @@ https://vitalik.ca
 https://dankradfeist.de/
 
 ## Cryptography or Protocol Designs
-[Schnorr Signatures Explainer](https://cs.au.dk/~ivan/Sigma.pdf)
+[Schnorr Signatures](https://cs.au.dk/~ivan/Sigma.pdf)
 
-[Hash Functions Explainer](https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/)
+[Hash Functions](https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/)
 
 
 ### Beyond the Phase 0
