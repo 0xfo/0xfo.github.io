@@ -11,6 +11,8 @@ https://dankradfeist.de/
 
 [Hash Functions](https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/)
 
+[Elliptic Curve Cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+
 ### Phase 0
 Eth2 Resources Listed by [Casparschwa](https://notes.ethereum.org/@casparschwa/HyGvlvkfK) & [Ben Edgington](https://hackmd.io/@benjaminion/eth2_info)
 
